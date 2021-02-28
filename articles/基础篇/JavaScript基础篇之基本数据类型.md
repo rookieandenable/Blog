@@ -1,4 +1,4 @@
-# JavaScript基础篇之基本数量类型
+# JavaScript基础篇之基本数据类型
 
 ## String 字符串
 
@@ -61,8 +61,8 @@
     var str3 = '正道的光芒'
 
     console.log(str1.length) // 5
-    console.log(str1.length) // 13
-    console.log(str1.length) // 5
+    console.log(str2.length) // 13
+    console.log(str3.length) // 5
 ```
 
 在判断字符串的长度时：
@@ -71,7 +71,7 @@
 
 - 一个标点符号算一个字符。
 
-- 一个空格断一个字符。
+- 一个空格算一个字符。
 
 ### 字符串的拼接
 
@@ -99,7 +99,7 @@
 
 ### 字符串的不变性
 
-字符串里面的值不可被改变。虽然看上去可以改变内容，但是其实是地址变了，内存中新开辟了一个内存的空间。
+字符串里面的值不可被改变。虽然看上去可以改变内容，但是其实是地址变了，内存中新开辟了一个新的空间。
 
 示例：
 
@@ -108,11 +108,11 @@
     str = 'ff'
 ```
 
-上面代码，重新给变量str赋值时，常量 `ac` 不会被修改，依然保存在内存中。str 会改为指向 `ff`。
+上面代码，重新给变量str赋值时，常量 **ab** 不会被修改，依然保存在内存中。str 会改为指向 **ff**。
 
 ### 模板字符串
 
-ES6引入了 `模板字符串`。
+ES6引入了 **模板字符串**。
 
 示例：
 
@@ -127,7 +127,7 @@ ES6引入了 `模板字符串`。
 
 ## 布尔值： Boolean
 
-布尔型有两个值：ture 和 false。主要用来做逻辑判断: true 表示真，false 表示假。
+布尔型有两个值：**ture** 和 **false**。主要用来做逻辑判断: true 表示真，false 表示假。
 
 示例：
 
@@ -142,7 +142,7 @@ ES6引入了 `模板字符串`。
 
 ## 数值型：Number
 
-在JavaScript中所有的数值都是 Number 类型，包括整数和浮点数（小数）。
+在JavaScript中所有的数值都是 **Number** 类型，包括整数和浮点数（小数）。
 
 ```js
     var a = 23
@@ -156,9 +156,9 @@ ES6引入了 `模板字符串`。
 
 由于内存的限制，所以不能保存世界上所有的数值。
 
-- 最大值：`Number.MAX_VALUE`，这个值为：1.7976931348623157e+308
+- 最大值：**Number.MAX_VALUE**，这个值为：1.7976931348623157e+308
 
-- 最小值：`Number.MIN_VALUE`，这个值为： 5e-324。
+- 最小值：**Number.MIN_VALUE**，这个值为： 5e-324。
 
 如果使用 Number 表示的变量超过了最大值，则会返回 Infinity。
 
@@ -166,18 +166,18 @@ ES6引入了 `模板字符串`。
 
 - 无穷小（负无穷）： -Infifigy
 
-PS: `typsof Infinity` 的返回结果是 number
+PS: **typeof Infinity** 的返回结果是 number
 
 ### NaN
 
-是一个特殊的数字，表示 Not a Number，非数值。如：
+是一个特殊的数字，表示 **Not a Number**，非数值。如：
 
 ```js
     console.log('ac' / 10) // NaN
     console.log('a' * 'b') // NaN
 ```
 
-PS: `typeof NaN` 的结果是 number
+PS: **typeof NaN** 的结果是 number
 
 Undefined 和任何数值计算的结果为 NaN。NaN 与任何值都不相等，包括 NaN 本身。
 
@@ -190,13 +190,13 @@ null 专门用来定义一个空对象 （var a = null）
 
 - Null 类型的值只有一个，就是 null。
 
-- 使用 typeof 检查一个 null 值时，会返回object。
+- 使用 typeof 检查一个 null 值时，会返回 object。
 
 ### Undefined
 
 #### 变量已经声明，未赋值时
 
-声明了一个变量，但没有赋值，此时它的值就是 `undefined`。
+声明了一个变量，但没有赋值，此时它的值就是 **undefined**。
 
 ```js
     var name
@@ -244,15 +244,14 @@ null 专门用来定义一个空对象 （var a = null）
 
 #### null 和 undefined 区别
 
-null 和 undefined 的相似性。`null == undefined` 的结果死 `true`。
+null 和 undefined 的相似性。**null == undefined** 的结果是 **true**。
 
-但是，`null === undefined` 的结果是 `false`,所以还是有区别的。
+但是，**null === undefined** 的结果是 **false**，所以还是有区别的。
 
 - 任何数字类型和 undefined 运算都是 NaN
 
-- 任何值和 null 运算，null 可看做 0 运算
+- 任何值和 null 运算，null 可看做 0
 
-感谢阅读。
 
 如果喜欢或者有所收获，欢迎start，对作者也是一种鼓励。
 

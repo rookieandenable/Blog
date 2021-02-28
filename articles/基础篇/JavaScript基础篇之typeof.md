@@ -1,4 +1,4 @@
-# JavaScript基础篇之typeof
+# JavaScript基础篇之typeof和类型转换
 
 **变量的数据类型转换**：将一种数据类型转换为另外一种数据类型。
 
@@ -12,7 +12,7 @@
 
 ## typeof 运算符
 
- **typeof()** 表示 **获取变量的数据类**，返回的是 **小写**，写法：
+ **typeof()** 表示 **获取变量的数据类型**，返回的是 **小写**，写法：
 
  ```js
      // 写法1
@@ -30,7 +30,7 @@
 | typeof 字符串     |  string   |
 | typeof 布尔型     |  boolean  |
 | typeof 对象       |  object   |
-| typeof 方法       | function  |
+| typeof 函数       | function  |
 | typeof null       |  object   |
 | typeof undefined  | undefined |
 
@@ -373,8 +373,6 @@ console.log(b) // 666
 
 3、任何值和NaN做运算的结果都是NaN。
 
-
-感谢阅读。
 
 如果喜欢或者有所收获，欢迎start，对作者也是一种鼓励。
 
