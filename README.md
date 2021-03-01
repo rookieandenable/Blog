@@ -15,4 +15,7 @@ JavaScript基础篇 20 篇现在进行
 7. [JavaScirpt基础篇之对象](https://github.com/rookieandenable/Blog/blob/main/articles/%E5%9F%BA%E7%A1%80%E7%AF%87/JavaScript%E5%9F%BA%E7%A1%80%E7%AF%87%E4%B9%8B%E5%AF%B9%E8%B1%A1.md)
 8. [JavaScirpt基础篇之包装类](https://github.com/rookieandenable/Blog/blob/main/articles/%E5%9F%BA%E7%A1%80%E7%AF%87/JavaScript%E5%9F%BA%E7%A1%80%E7%AF%87%E4%B9%8B%E5%8C%85%E8%A3%85%E7%B1%BB.md)
 9. [JavaScirpt基础篇之内置对象](https://github.com/rookieandenable/Blog/blob/main/articles/%E5%9F%BA%E7%A1%80%E7%AF%87/JavaScript%E5%9F%BA%E7%A1%80%E7%AF%87%E4%B9%8B%E5%86%85%E7%BD%AE%E5%AF%B9%E8%B1%A1.md)
-10. [JavaScirpt基础篇之]()
+10. [JavaScirpt基础篇之数组](https://github.com/rookieandenable/Blog/blob/main/articles/%E5%9F%BA%E7%A1%80%E7%AF%87/JavaScript%E5%9F%BA%E7%A1%80%E7%AF%87%E4%B9%8B%E6%95%B0%E7%BB%84.md)
+11. [JavaScirpt基础篇之]()
+12. [JavaScirpt基础篇之]()
+13. [JavaScirpt基础篇之]()
