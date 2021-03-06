@@ -4,6 +4,16 @@
 
 JavaScript基础篇 20 篇
 
+JavaScript深入篇 25 篇
+
+算法和数据结构篇 15 篇
+
+ES6系列篇 16篇
+
+网络相关系列篇 10 篇
+
+vue篇
+
 ## 基础篇目录
 
 1. [JavaScirpt基础篇之变量](https://github.com/rookieandenable/Blog/blob/main/articles/%E5%9F%BA%E7%A1%80%E7%AF%87/JavaScript%E5%9F%BA%E7%A1%80%E7%AF%87%E4%B9%8B%E5%8F%98%E9%87%8F.md)
@@ -26,3 +36,10 @@ JavaScript基础篇 20 篇
 18. [JavaScirpt基础篇之事件](https://github.com/rookieandenable/Blog/blob/main/articles/%E5%9F%BA%E7%A1%80%E7%AF%87/JavaScript%E5%9F%BA%E7%A1%80%E7%AF%87%E4%B9%8B%E4%BA%8B%E4%BB%B6.md)
 19. [JavaScirpt基础篇之DOM](https://github.com/rookieandenable/Blog/blob/main/articles/%E5%9F%BA%E7%A1%80%E7%AF%87/JavaScript%E5%9F%BA%E7%A1%80%E7%AF%87%E4%B9%8BDOM.md)
 20. [JavaScirpt基础篇之BOM  基础篇完结](https://github.com/rookieandenable/Blog/blob/main/articles/%E5%9F%BA%E7%A1%80%E7%AF%87/JavaScript%E5%9F%BA%E7%A1%80%E7%AF%87%E4%B9%8BBOM.md)
+
+
+## 深入篇目录
+
+
+## 数据结构篇目录
+1. [二分查找]()
