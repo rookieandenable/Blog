@@ -43,6 +43,8 @@ vue篇
 
 ## 数据结构篇目录
 1. [二分查找](https://github.com/rookieandenable/Blog/blob/main/articles/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
-2. [插入排序](https://github.com/rookieandenable/Blog/blob/main/articles/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.md)
-3. [冒泡排序](https://github.com/rookieandenable/Blog/blob/main/articles/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.md)
+2. [冒泡排序](https://github.com/rookieandenable/Blog/blob/main/articles/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.md)
+3. [插入排序](https://github.com/rookieandenable/Blog/blob/main/articles/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.md)
 4. [时间复杂度和空间复杂度]()
+5. [合并排序]()
+5. [递归]()
