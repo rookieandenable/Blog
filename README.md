@@ -41,6 +41,25 @@ vue篇
 ## 深入篇目录
 
 
+## ES6系列篇
+1. [const和let](https://github.com/rookieandenable/Blog/blob/main/articles/ES6/const%E5%92%8Clet.md)
+2. [箭头函数](https://github.com/rookieandenable/Blog/blob/main/articles/ES6/%E7%AE%AD%E5%A4%B4%E5%87%BD%E6%95%B0.md)
+3. [Async](https://github.com/rookieandenable/Blog/blob/main/articles/ES6/Async.md)
+4. [Decorator](https://github.com/rookieandenable/Blog/blob/main/articles/ES6/Decorator.md)
+5. [Generator](https://github.com/rookieandenable/Blog/blob/main/articles/ES6/Generator.md)
+6. [Promise](https://github.com/rookieandenable/Blog/blob/main/articles/ES6/Promise.md)
+7. [Set数据结构](https://github.com/rookieandenable/Blog/blob/main/articles/ES6/Set%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
+8. [Symbol类型](https://github.com/rookieandenable/Blog/blob/main/articles/ES6/Symbol%E7%B1%BB%E5%9E%8B.md)
+9. [WeakMap](https://github.com/rookieandenable/Blog/blob/main/articles/ES6/WeakMap.md)
+10. [Class](https://github.com/rookieandenable/Blog/blob/main/articles/ES6/class.md)
+11. [defineProperty和Proxy](https://github.com/rookieandenable/Blog/blob/main/articles/ES6/defineProperty%E5%92%8Cproxy.md)
+12. [实现私有变量](https://github.com/rookieandenable/Blog/blob/main/articles/ES6/%E5%AE%9E%E7%8E%B0%E7%A7%81%E6%9C%89%E5%8F%98%E9%87%8F.md)
+13. [异步的运用](https://github.com/rookieandenable/Blog/blob/main/articles/ES6/%E5%BC%82%E6%AD%A5%E5%A4%84%E7%90%86%E8%BF%90%E7%94%A8.md)
+14. [模块加载](https://github.com/rookieandenable/Blog/blob/main/articles/ES6/%E6%A8%A1%E5%9D%97%E5%8A%A0%E8%BD%BD.md)
+15. [模板字符串](https://github.com/rookieandenable/Blog/blob/main/articles/ES6/%E6%A8%A1%E6%9D%BF%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+16. [迭代器](https://github.com/rookieandenable/Blog/blob/main/articles/ES6/%E8%BF%AD%E4%BB%A3%E5%99%A8.md)
+
+
 ## 数据结构篇目录
 1. [二分查找](https://github.com/rookieandenable/Blog/blob/main/articles/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
 2. [冒泡排序](https://github.com/rookieandenable/Blog/blob/main/articles/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.md)
