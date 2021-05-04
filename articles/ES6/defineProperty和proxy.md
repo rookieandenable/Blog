@@ -343,3 +343,19 @@ document.getElementById('button').addEventListener("click", function() {
 
 
 我们也可以发现，使用 defineProperty 和 proxy 的区别，当使用 defineProperty，我们修改原来的 obj 对象就可以触发拦截，而使用 proxy，就必须修改代理对象，即 Proxy 的实例才可以触发拦截。
+
+
+### proxy对比defineProperty的区别，以及优势
+
+**Proxy**
+
+- 代理的是 对象
+- 可以拦截到数组的变化
+- 拦截的方法多达13种
+- 返回一个拦截后的数据
+
+**Object.defineProperty**
+
+- 代理的是属性
+- 对数组数据的变化无能为力
+- 直接修改原始数据
